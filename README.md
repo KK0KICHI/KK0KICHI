@@ -8,7 +8,7 @@
 <summary>
   <b><span style="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=B388FF&center=false&vCenter=true&width=250&lines=My+beloved+Kokichi+%E2%99%A1" alt="My beloved Kokichi"</span></b>
 </summary>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=B388FF&center=true&vCenter=true&width=300&lines=My+beloved+Kokichi+%E2%99%A1" alt="My beloved Kokichi">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=B388FF&center=true&vCenter=true&width=300&lines=My+beloved+Kokichi+%E2%99%A1" alt="My beloved Kokichi
 </p>
 <div align="center">
 
@@ -19,7 +19,7 @@
 <img src="https://files.catbox.moe/2h5ev7.webp" width="150">
 
 </div>
-
+<div align="center">
 </details>
 <img src="https://img.shields.io/badge/P R O N O U N S-B9A4D8?style=for-the-badge&labelColor=B9A4D8&logoColor=292333" />
 </a>
