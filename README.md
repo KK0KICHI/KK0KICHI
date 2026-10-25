@@ -11,7 +11,9 @@
 <img src="https://files.catbox.moe/zt1hxb.png" width="30%" />
 <img src="https://files.catbox.moe/c3wd3u.png" width="30%" />
 <img src="https://files.catbox.moe/sx0gwc.png" width="30%" />
-  
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=BC8CF2&center=true&vCenter=true&width=650&lines=I'm+the+leader+of+the+evil+organization+D.I.C.E.%21" />
+</p>
 <div align="center">
 
 <a href="https://pronouns.cc/@Meringue">
