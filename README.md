@@ -17,7 +17,7 @@
 <a href="https://pronouns.cc/@Meringue">
   <img src="https://img.shields.io/badge/P R O N O U N S-B9A4D8?style=for-the-badge&labelColor=B9A4D8&logoColor=292333" />
 </a>
-<a href="https://hey-its-me-verity.straw.page">
+<a href="https://kokichiwiwi.straw.page">
   <img src="https://img.shields.io/badge/S T R A W P A G E-E0D2F2?style=for-the-badge&labelColor=E0D2F2&logoColor=292333" />
 </a>
 <div align="center">
