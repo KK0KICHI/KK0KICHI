@@ -24,7 +24,7 @@
 </a>
 <div align="center">
 <img src="https://files.catbox.moe/11livb.webp" width="15%" />
-<img src="https://files.catbox.moe/78h3p9.png" width="100%" />
+<img src="https://files.catbox.moe/m19leb.png" width="100%" />
 
 </div>
 <!--
