@@ -1,5 +1,29 @@
-## Hi there 👋
+<div align="center">
 
+<img src="https://files.catbox.moe/iktmxa.png" width="100%" />
+
+<img src="https://files.catbox.moe/xkf9pn.webp" width="40%" />
+
+<br><br>
+<div align="center">
+<br><br><br>
+<img src="https://files.catbox.moe/zt1hxb.png" width="30%" />
+<img src="https://files.catbox.moe/c3wd3u.png" width="30%" />
+<img src="https://files.catbox.moe/sx0gwc.png" width="30%" />
+
+![sillies](https://hits.sh/github.com/mwringue.svg?label=sillies&color=B9A4D8&labelColor=55515D)
+
+<a href="https://pronouns.cc/@Meringue">
+  <img src="https://img.shields.io/badge/P R O N O U N S-B9A4D8?style=for-the-badge&labelColor=B9A4D8&logoColor=292333" />
+</a>
+<img src="https://files.catbox.moe/11livb.webp" width="10%" />
+<a href="https://hey-its-me-verity.straw.page">
+  <img src="https://img.shields.io/badge/S T R A W P A G E-E0D2F2?style=for-the-badge&labelColor=E0D2F2&logoColor=292333" />
+</a>
+
+<img src="https://files.catbox.moe/78h3p9.png" width="100%" />
+
+</div>
 <!--
 **KK0KICHI/KK0KICHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
