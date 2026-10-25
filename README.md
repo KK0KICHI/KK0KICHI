@@ -13,6 +13,8 @@
 
 ![sillies](https://hits.sh/github.com/mwringue.svg?label=sillies&color=B9A4D8&labelColor=55515D)
 
+<div align="center">
+
 <a href="https://pronouns.cc/@Meringue">
   <img src="https://img.shields.io/badge/P R O N O U N S-B9A4D8?style=for-the-badge&labelColor=B9A4D8&logoColor=292333" />
 </a>
