@@ -8,9 +8,10 @@
 <summary>
   <b><span style="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=B388FF&center=false&vCenter=true&width=250&lines=My+beloved+Kokichi+%E2%99%A1" alt="My beloved Kokichi"</span></b>
 </summary>
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=B388FF&center=true&vCenter=true&width=300&lines=My+beloved+Kokichi+%E2%99%A1" alt="My beloved Kokichi
 </p>
-
+<div align="center">
 <img src="https://files.catbox.moe/iqdgeo.webp" width="150">
 <img src="https://files.catbox.moe/opu9b1.webp" width="150">
 <img src="https://files.catbox.moe/9m939x.webp" width="150">
