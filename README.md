@@ -11,9 +11,7 @@
 <img src="https://files.catbox.moe/zt1hxb.png" width="30%" />
 <img src="https://files.catbox.moe/c3wd3u.png" width="30%" />
 <img src="https://files.catbox.moe/sx0gwc.png" width="30%" />
-
-![sillies](https://hits.sh/github.com/mwringue.svg?label=sillies&color=B9A4D8&labelColor=55515D)
-
+  
 <div align="center">
 
 <a href="https://pronouns.cc/@Meringue">
