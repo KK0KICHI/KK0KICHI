@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/h4kwg4.png" width="100%" />
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=BC8CF2&center=true&vCenter=true&width=650&lines=I'm+the+leader+of+the+evil+organization+D.I.C.E.%21" />
-<img src="https://files.catbox.moe/rocwf7.png" width="100%" />  
+<img src="https://files.catbox.moe/ajes3g.png" width="100%" />  
 <img src="https://img.shields.io/badge/P R O N O U N S-B9A4D8?style=for-the-badge&labelColor=B9A4D8&logoColor=292333" />
 </a>
 <a href="https://kokichiwiwi.straw.page">
