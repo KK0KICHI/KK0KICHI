@@ -20,7 +20,8 @@
 
 </div>
 <div align="center">
-</details>
+</details><a 
+            href="https://pronouns.cc/@Meringue">
 <img src="https://img.shields.io/badge/P R O N O U N S-B9A4D8?style=for-the-badge&labelColor=B9A4D8&logoColor=292333" />
 </a>
 <a href="https://kokichiwiwi.straw.page">
